@@ -3,12 +3,12 @@ h1 {
   color: hsl(0, 0%, 100%);
   margin-top: 10vh;
 }
-
+/* 
 a {
   color: hsl(237, 18%, 59%);
   fill: hsl(237, 18%, 59%);
   transition: 3ms;
-}
+} */
 a:hover {
   color: hsl(345, 95%, 68%);
   fill: hsl(345, 95%, 68%);
